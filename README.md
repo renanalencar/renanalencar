@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renan</h1>
-<h3 align="center">Application Development Analyst. PhD Student and mester in Computer Engineering. Cambridge Certified English Teacher.</h3>
+<h3 align="center">Software Development Analyst. PhD Student and mester in Computer Engineering. Cambridge Certified English Teacher.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renanalencar&label=Profile%20views&color=0e75b6&style=flat" alt="renanalencar" /> </p>
 
