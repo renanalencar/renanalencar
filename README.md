@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renanalencar&label=Profile%20views&color=0e75b6&style=flat" alt="renanalencar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renanalencar" alt="renanalencar" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renanalencar" alt="renanalencar" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/mrcostaalencar" target="blank"><img src="https://img.shields.io/twitter/follow/mrcostaalencar?logo=twitter&style=for-the-badge" alt="mrcostaalencar" /></a> </p>
 
@@ -27,11 +27,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mrcostaalencar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="mrcostaalencar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/renanalencar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="renanalencar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/2411775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="2411775" height="30" width="40" /></a>
-<a href="https://fb.com/renancostaalencar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="renancostaalencar" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.costaalencar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="mr.costaalencar" height="30" width="40" /></a>
+<a href="https://twitter.com/mrcostaalencar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrcostaalencar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/renanalencar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renanalencar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/2411775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2411775" height="30" width="40" /></a>
+<a href="https://fb.com/renancostaalencar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="renancostaalencar" height="30" width="40" /></a>
+<a href="https://instagram.com/mr.costaalencar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.costaalencar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,8 +40,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/renan87"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="renan87" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renanalencar&show_icons=true&theme=dracula&locale=en&layout=compact" alt="renanalencar" /></p>
+<hr/>
+<h3 align="left"></h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=renanalencar&show_icons=true&theme=dracula&locale=en&layout=compact" alt="renanalencar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renanalencar&show_icons=true&theme=dracula&locale=en" alt="renanalencar" /></p>
+<h3 align="left"></h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=renanalencar&show_icons=true&theme=dracula&locale=en" alt="renanalencar" /></p>
 
+<h3 align="left"></h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renanalencar&theme=dark" alt="renanalencar" /></p>
