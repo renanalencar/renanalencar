@@ -5,19 +5,17 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renanalencar" alt="renanalencar" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/mrcostaalencar" target="blank"><img src="https://img.shields.io/twitter/follow/mrcostaalencar?logo=twitter&style=for-the-badge" alt="mrcostaalencar" /></a> </p>
+- 🔭 I’m currently working on **Computer Vision**
 
-- 🔭 I’m currently working on **Data Mining**
+- 🌱 I’m currently learning **Large Language Models**
 
-- 🌱 I’m currently learning **Project Patterns**
-
-- 👯 I’m looking to collaborate on **Network Science**
+- 👯 I’m looking to collaborate on **Deep Learning**
 
 - 🤝 I’m looking for help with **Computer Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://renanalencar.eng.br](https://renanalencar.eng.br)
 
-- 📝 I regularly write articles on [blog.renanalencar.eng.br](blog.renanalencar.eng.br)
+- 📝 I regularly write articles on [Medium](https://medium.com/@renan-costaalencar)
 
 - 📫 How to reach me **renan.costaalencar@gmail.com**
 
@@ -27,10 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mrcostaalencar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrcostaalencar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/renanalencar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renanalencar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/2411775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2411775" height="30" width="40" /></a>
-<a href="https://fb.com/renancostaalencar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="renancostaalencar" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.costaalencar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.costaalencar" height="30" width="40" /></a>
 </p>
 
